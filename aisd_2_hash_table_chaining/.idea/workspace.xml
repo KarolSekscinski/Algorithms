@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4164ba57-e85a-4d57-b5cb-c2e687731583" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pl/edu/pw/ee/HashListChainingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pl/edu/pw/ee/HashListChainingTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2GdNCaP0Z2BdPlnPpYvEGQ6dGUb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Karol/Desktop/JIMPY/AiSD/2022Z_AISD_git_lab_GR4_gr16/aisd_lab_3_hash_table"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.HashListChainingTest">
+    <configuration name="HashListChainingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="aisd_lab_3_hash_table" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.edu.pw.ee.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.edu.pw.ee" />
+      <option name="MAIN_CLASS_NAME" value="pl.edu.pw.ee.HashListChainingTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashListChainingTest.checkingPerformanceOnBigDataSet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="aisd_lab_3_hash_table" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.edu.pw.ee.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.edu.pw.ee" />
+      <option name="MAIN_CLASS_NAME" value="pl.edu.pw.ee.HashListChainingTest" />
+      <option name="METHOD_NAME" value="checkingPerformanceOnBigDataSet" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashListChainingTest.shouldActCorretlyWhenTryingToDeleteItemWhichWasPreviousInHash" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="aisd_lab_3_hash_table" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.edu.pw.ee.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.edu.pw.ee" />
+      <option name="MAIN_CLASS_NAME" value="pl.edu.pw.ee.HashListChainingTest" />
+      <option name="METHOD_NAME" value="shouldActCorretlyWhenTryingToDeleteItemWhichWasPreviousInHash" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashListChainingTest.shouldDeleteLastElemCorrectlyWhenSizeOfHashEqualsOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="aisd_lab_3_hash_table" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.edu.pw.ee.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.edu.pw.ee" />
+      <option name="MAIN_CLASS_NAME" value="pl.edu.pw.ee.HashListChainingTest" />
+      <option name="METHOD_NAME" value="shouldDeleteLastElemCorrectlyWhenSizeOfHashEqualsOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashListChainingTest.shouldReturnProperSizeOfHashTableAfterAddingNewElem" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="aisd_lab_3_hash_table" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.edu.pw.ee.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.edu.pw.ee" />
+      <option name="MAIN_CLASS_NAME" value="pl.edu.pw.ee.HashListChainingTest" />
+      <option name="METHOD_NAME" value="shouldReturnProperSizeOfHashTableAfterAddingNewElem" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HashListChainingTest" />
+        <item itemvalue="JUnit.HashListChainingTest.shouldDeleteLastElemCorrectlyWhenSizeOfHashEqualsOne" />
+        <item itemvalue="JUnit.HashListChainingTest.shouldReturnProperSizeOfHashTableAfterAddingNewElem" />
+        <item itemvalue="JUnit.HashListChainingTest.shouldActCorretlyWhenTryingToDeleteItemWhichWasPreviousInHash" />
+        <item itemvalue="JUnit.HashListChainingTest.checkingPerformanceOnBigDataSet" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4164ba57-e85a-4d57-b5cb-c2e687731583" name="Changes" comment="" />
+      <created>1666714377215</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666714377215</updated>
+    </task>
+    <servers />
+  </component>
+</project>
